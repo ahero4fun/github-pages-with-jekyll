@@ -1,3 +1,3 @@
-# Welcome to my blog
+# A Hero For Fun
 
 I'm glad you are here. I plan to talk about ...
